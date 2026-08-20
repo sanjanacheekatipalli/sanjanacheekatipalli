@@ -71,9 +71,8 @@ Technical Skills
 
 `MATLAB` `Proteus` `Arduino IDE` `Python` `SQL` `Git` `GitHub`
 
----
 
-  Experience
+ Experience
 
  Embedded Systems Intern — Bist Technologies Pvt Ltd
 
